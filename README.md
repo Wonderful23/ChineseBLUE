@@ -82,7 +82,7 @@ Paper will be released soon.
 @InProceedings{zhang2019cbert,
   author    = {Ningyu Zhang, Qianghuai Jia, Kangping Yin, Liang Dong, Feng Gao, Nengwei Hua},
   title     = {Conceptualized Representation Learning for Chinese Biomedical Text Mining},
-  booktitle = {WSDM 2020},
+  booktitle = {WSDM 2020 HealthDay},
   year      = {2020},
 }
 ```
