@@ -2,7 +2,7 @@
 [![License](https://img.shields.io/github/license/alibaba-research/ChineseBLUE?style=flat-square)](https://github.com/alibaba-research/ChineseBLUE/blob/master/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/alibaba-research/ChineseBLUE?style=flat-square)](https://github.com/alibaba-research/ChineseBLUE/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/alibaba-research/ChineseBLUE?style=flat-square&color=blueviolet)](https://github.com/alibaba-research/ChineseBLUE/network/members)
-[![HitCount](http://hits.dwyl.io/zxlzr/https://githubcom/alibaba-research/ChineseBLUE.svg)](http://hits.dwyl.io/zxlzr/https://githubcom/alibaba-research/ChineseBLUE)
+
 ## Introduction
 
 ChinesseBLUE benchmark consists of different biomedicine text-mining tasks with corpora.
