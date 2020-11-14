@@ -79,11 +79,11 @@ Paper will be released soon.
 *  [Ningyu Zhang](https://zxlzr.github.io), Qianghuai Jia, Kangping Yin, Liang Dong, Feng Gao, Nengwei Hua. [Conceptualized Representation Learning for Chinese Biomedical Text Mining](https://raw.githubusercontent.com/alibaba-research/ChineseBLUE/master/paper.pdf)
 
 ```
-@InProceedings{zhang2019cbert,
-  author    = {Ningyu Zhang, Qianghuai Jia, Kangping Yin, Liang Dong, Feng Gao, Nengwei Hua},
-  title     = {Conceptualized Representation Learning for Chinese Biomedical Text Mining},
-  booktitle = {WSDM 2020 HealthDay},
-  year      = {2020},
+@article{zhang2020conceptualized,
+  title={Conceptualized Representation Learning for Chinese Biomedical Text Mining},
+  author={Zhang, Ningyu and Jia, Qianghuai and Yin, Kangping and Dong, Liang and Gao, Feng and Hua, Nengwei},
+  journal={arXiv preprint arXiv:2008.10813},
+  year={2020}
 }
 ```
 
