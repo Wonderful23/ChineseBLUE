@@ -3,6 +3,10 @@
 [![GitHub stars](https://img.shields.io/github/stars/alibaba-research/ChineseBLUE?style=flat-square)](https://github.com/alibaba-research/ChineseBLUE/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/alibaba-research/ChineseBLUE?style=flat-square&color=blueviolet)](https://github.com/alibaba-research/ChineseBLUE/network/members)
 
+This repository includes the data of the WSDM 2020 Healthcare Day paper [Conceptualized Representation Learning for Chinese Biomedical Text Mining](https://arxiv.org/pdf/2008.10813.pdf).
+
+We also recommmend to use our recent released [CBLUE benchmark](https://github.com/CBLUEbenchmark/CBLUE) which includes a collection of natural language understanding tasks including named entity recognition, information extraction, single-sentence/sentence-pair classification, and an associated online platform for model evaluation, comparison, and analysis.  
+
 ## Introduction
 
 ChinesseBLUE benchmark consists of different biomedicine text-mining tasks with corpora.
