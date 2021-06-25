@@ -78,7 +78,6 @@ All pre-trained models can be downloaded at [MC-BERT](https://drive.google.com/o
 
 ## Citing Chinese BLUE
 
-Paper will be released soon.
 
 *  [Ningyu Zhang](https://zxlzr.github.io), Qianghuai Jia, Kangping Yin, Liang Dong, Feng Gao, Nengwei Hua. [Conceptualized Representation Learning for Chinese Biomedical Text Mining](https://raw.githubusercontent.com/alibaba-research/ChineseBLUE/master/paper.pdf)
 
